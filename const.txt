@@ -1,2 +1,1 @@
-dev1test
-dev2test
+dev1
